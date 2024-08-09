@@ -1,0 +1,11 @@
+CustomerID,ProductCategory,AmountSpent,PurchaseDate
+1,Electronics,500,2023-01-15
+2,Clothing,120,2023-02-20
+3,Groceries,230,2023-01-25
+4,Electronics,600,2023-02-10
+5,Clothing,150,2023-02-14
+6,Electronics,700,2023-01-30
+7,Groceries,250,2023-02-05
+8,Clothing,100,2023-01-18
+9,Groceries,220,2023-02-12
+10,Electronics,550,2023-02-18
